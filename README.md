@@ -3,7 +3,7 @@
 
 Based on ESP8266 Wifi, DHT11 module and Arduino. 
 
-It can measure temperature and wetness datas, also sends them to the ThingSpeak channels.
+It can measure values of temperature and wetness, also sends them to the ThingSpeak channels as data.
 
 In ThingSpeak interface, values of temperature and wetness can be visible as graph.
 
